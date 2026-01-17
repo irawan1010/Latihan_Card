@@ -13,7 +13,7 @@ function ProductCard({ props }) {
             className="rounded-md ml-auto mt-3 bg-slate-700 py-2 px-4 border border-transparent text-center text-sm text-white w-max font-bold"
             type="button"
           >
-            + ADD TO CARD
+            + Add to cart
           </button>
         </div>
         <div>
