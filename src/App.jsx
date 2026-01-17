@@ -17,7 +17,7 @@ const ProductData = [
     name: "ADIDAS RUNNING",
     price: "$ 300",
     rating: "4.5",
-    location: "Kota Bandung",
+    location: "Kota Semarang",
     kategori: "ADIDAS",
   },
 ];
